@@ -1,4 +1,4 @@
-# ⚡ LOG.IO — Edge-Optimized Developer Logbook
+# ⚡ Developer Blog — Edge-Optimized Developer Logbook
 
 [![Next.js](https://img.shields.io/badge/Next.js-15.0-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
